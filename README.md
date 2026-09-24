@@ -6,3 +6,4 @@ Homepage Logo:
 
 Smaller Login Logo:
 
+<img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/3c55cf9a-b405-4453-8daa-9ee6a67cd939" />
